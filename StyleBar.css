@@ -3,73 +3,32 @@ body{
     padding: 0;
     font-family: 'Open Sans Condensed', sans-serif;
 }
-#bar_A{
+.bar{
     width: 100%;
     height: 10%;
     position: fixed;
+    
+    top: 0;
+    right: 0;
+    left: 0;
+    font-size: 75px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#barBlue{
     background-color: #6A9AD9;
-    top: 0;
-    right: 0;
-    left: 0;
-    font-size: 75px;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
-#bar_B{
-    width: 100%;
-    height: 10%;
-    position: fixed;
+#barGreen{
     background-color: #3BD962;
-    top: 0;
-    right: 0;
-    left: 0;
-    font-size: 75px;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
-#bar_C{
-    width: 100%;
-    height: 10%;
-    position: fixed;
+#barYellow{
     background-color: #F2E85E;
-    top: 0;
-    right: 0;
-    left: 0;
-    font-size: 75px;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
-#bar_D{
-    width: 100%;
-    height: 10%;
-    position: fixed;
+#barOrange{
     background-color: #F2A516;
-    top: 0;
-    right: 0;
-    left: 0;
-    font-size: 75px;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
-#bar_E{
-    width: 100%;
-    height: 10%;
-    position: fixed;
+#barRed{
     background-color: #D93611;
-    top: 0;
-    right: 0;
-    left: 0;
-    font-size: 75px;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
