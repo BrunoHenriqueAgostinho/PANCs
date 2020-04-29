@@ -3,10 +3,25 @@
     font-size: 80px;
     text-align: center;
 }
+.titleP{
+    font-weight: bolder;
+    font-size: 45px;
+    margin: 20px 135px;
+}
+.titleBox{
+    font-weight: bolder;
+    font-size: 45px;
+    margin: 5px 10px 10px 25px;
+}
 .information{
     font-size: 28px;
-    padding: 0 90px 50px 90px;
+    padding: 0 90px 10px 90px;
     margin: 0 50px;
+}
+.informationBox{
+    font-size: 20px;
+    padding: 0 5px 5px 5px;
+    margin: 0 5px;
 }
 .CatPage{
     font-size: 60px;
@@ -34,9 +49,94 @@
     font-weight: bold;
 }
 .CatBox{
-    width: 70%;
+    width: 20%;
+    height: 60%;
+    border-style: solid;
+    border-width: 1%;
+    border-color: rgb(183, 217, 59);
+    margin: 1% 6.5% 1% 6.5%;
+    float: left;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    border-radius: 10px;
+}
+.CatBoxR{
+    width: 20%;
+    height: 40%;
+    border-style: solid;
+    border-width: 1%;
+    border-color: rgb(183, 217, 59);
+    margin: 1% 6.5% 1% 6.5%;
+    float: left;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    border-radius: 10px;
+}
+.CatBoxSNU{
+    width: 30%;
+    height: 60%;
     border-style: solid;
     border-width: 1%;
     border-color: #3BD962;
-    margin: 1% 14% 1% 14%;
+    margin: 1% 8% 1% 8%;
+    float: left;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    border-radius: 10px;
+}
+.CatBoxSNE{
+    width: 30%;
+    height: 60%;
+    border-style: solid;
+    border-width: 1%;
+    border-color: #3BD962;
+    margin: 1% 1% 1% 1%;
+    float: left;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    border-radius: 10px;
+}
+.informationBoxSN{
+    font-size: 25px;
+    padding: 0 5px 5px 5px;
+    margin: 0 5px;
+}
+.CatBoxI{
+    width: 30%;
+    height: 40%;
+    border-style: solid;
+    border-width: 1%;
+    border-color: rgb(216, 84, 113);
+    margin: 4% 1% 1% 13%;
+    float: left;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    border-radius: 10px;
+}
+.CatBoxRE{
+    width: 30%;
+    height: 50%;
+    border-style: solid;
+    border-width: 1%;
+    border-color: rgb(183, 217, 59);
+    margin: 1% 6.5% 1% 6.5%;
+    float: left;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    border-radius: 10px;
+}
+.informationBoxI{
+    font-size: 22px;
+    padding: 0 5px 5px 5px;
+    margin: 0 5px;
+    font-weight: bolder;
+    color: rgb(69, 87, 107);
+}
+.CatBoxRI{
+    width: 40%;
+    float: left;
+
+}
+.CatBoxRMP{
+    width: 40%;
+    float: left;
+}
+.tittleR{
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
 }

@@ -7,39 +7,17 @@ h1.CatText{
     left: 0;
     width: 10%;
     height: 18%;
-    background-color: #6A9AD9;
+    background-color: rgb(211, 11, 87);
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    border-radius: 0px 5px 5px 0px;
 }
 .box2{
     position: fixed;
     top: 28%;
-    left: 0;
-    width: 10%;
-    height: 18%;
-    background-color: #3BD962;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.box3{
-    position: fixed;
-    top: 46%;
-    left: 0;
-    width: 10%;
-    height: 18%;
-    background-color: #F2E85E;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.box4{
-    position: fixed;
-    top: 64%;
     left: 0;
     width: 10%;
     height: 18%;
@@ -48,6 +26,36 @@ h1.CatText{
     display: flex;
     align-items: center;
     justify-content: center;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    border-radius: 0px 5px 5px 0px;
+}
+.box3{
+    position: fixed;
+    top: 46%;
+    left: 0;
+    width: 10%;
+    height: 18%;
+    background-color: rgb(235, 226, 101);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    border-radius: 0px 5px 5px 0px;
+}
+.box4{
+    position: fixed;
+    top: 64%;
+    left: 0;
+    width: 10%;
+    height: 18%;
+    background-color: rgb(170, 217, 59);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    border-radius: 0px 5px 5px 0px;
 }
 .box5{
     position: fixed;
@@ -55,11 +63,13 @@ h1.CatText{
     left: 0;
     width: 10%;
     height: 18%;
-    background-color: #D93611;
+    background-color: #3BD962;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    border-radius: 0px 10px 10px 0px;
 }
 #text{
     position: absolute;
@@ -70,3 +80,9 @@ h1.CatText{
     right: 0;
     text-align: justify;
 }
+/*#D93611		rgb(211, 11, 87)		rgb(211, 11, 87)
+  #F2A516		rgb(32, 184, 82)		#F2A516
+  #F2E85E		#3BD962			        rgb(235, 226, 101)
+  #3BD962		rgb(170, 217, 59)		rgb(32, 184, 82)
+  #6A9AD9		rgb(235, 226, 101)		#3BD962
+Cores usadas nas versões*/
