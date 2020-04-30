@@ -103,7 +103,7 @@
 }
 .CatBoxI{
     width: 30%;
-    height: 40%;
+    min-height: 330px;
     border-style: solid;
     border-width: 1%;
     border-color: rgb(216, 84, 113);
