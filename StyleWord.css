@@ -15,11 +15,11 @@
 }
 .information{
     font-size: 28px;
-    padding: 0 90px 10px 90px;
-    margin: 0 50px;
+    width: 84%;
+    margin: 0 8% 50px 8%;
 }
 .informationBox{
-    font-size: 20px;
+    font-size: 23px;
     padding: 0 5px 5px 5px;
     margin: 0 5px;
 }
@@ -48,13 +48,17 @@
     text-align: center;
     font-weight: bold;
 }
-.CatBox{
-    width: 20%;
-    height: 60%;
+.CatBox1{
+    width: 84%;
+    margin: 0 8% 50px 8%;
+}
+.CatBox2{
+    width: 46%;
+    min-height: 560px;
     border-style: solid;
     border-width: 1%;
     border-color: rgb(183, 217, 59);
-    margin: 1% 6.5% 1% 6.5%;
+    margin: 1%;
     float: left;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
     border-radius: 10px;
