@@ -6,12 +6,13 @@
 .titleP{
     font-weight: bolder;
     font-size: 45px;
-    margin: 20px 135px;
+    margin: 0 8% 50px 8%;
 }
 .titleBox{
     font-weight: bolder;
     font-size: 45px;
     margin: 5px 10px 10px 25px;
+    text-align: center;
 }
 .information{
     font-size: 28px;
@@ -41,7 +42,7 @@
 .au{
     text-align: left;
     font-size: 25px;
-    padding: 0 0 0 140px;
+    margin: 0 8% 50px 8%;
 }
 .title2{
     font-size: 45px;
@@ -49,6 +50,10 @@
     font-weight: bold;
 }
 .CatBox1{
+    width: 84%;
+    margin: 0 8% 50px 8%;
+}
+.CatBoxSN{
     width: 84%;
     margin: 0 8% 50px 8%;
 }
@@ -65,7 +70,7 @@
 }
 .CatBoxR{
     width: 20%;
-    height: 40%;
+    min-height: 500px;
     border-style: solid;
     border-width: 1%;
     border-color: rgb(183, 217, 59);
@@ -130,17 +135,18 @@
     font-weight: bolder;
     color: rgb(69, 87, 107);
 }
-.CatBoxRI{
+.CatBoxRE2{
     width: 40%;
     float: left;
 
 }
-.CatBoxRMP{
-    width: 40%;
-    float: left;
-}
-.tittleR{
+.tittleRI{
+    font-weight: bolder;
     font-size: 35px;
-    text-align: center;
-    font-weight: bold;
+    margin: 0 8% 50px 4%;
+}
+.tittleRMP{
+    font-weight: bolder;
+    font-size: 35px;
+    margin: 0 8% 50px 8%;
 }

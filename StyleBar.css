@@ -15,7 +15,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 10px 10px 10px 1px rgba(0, 0, 0, 0.363);
+    box-shadow: 10px 3px 10px 1px rgba(0, 0, 0, 0.363);
 }
 #barBox1{
     background-color: rgb(211, 11, 87);
