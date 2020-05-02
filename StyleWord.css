@@ -18,6 +18,7 @@
     font-size: 28px;
     width: 84%;
     margin: 0 8% 50px 8%;
+    float: left;
 }
 .informationBox{
     font-size: 23px;
@@ -138,7 +139,6 @@
 .CatBoxRE2{
     width: 40%;
     float: left;
-
 }
 .tittleRI{
     font-weight: bolder;
@@ -155,3 +155,27 @@
     font-size: 22px;
     color:black;
 }
+.Teste{
+    width: 100;
+    padding: 1% 6.5% 1% 6.5%;
+    list-style: none;
+}
+.BotaoVoltar{
+    float: left;
+    text-align: left;
+    width: 34%;
+}
+.BotaoAvancar{
+    float: left;
+    text-align: right;
+    width: 33%;
+}
+.ajuda{
+    float: left;
+    text-align: center;
+    font-size: 80px;
+    width: 33%;
+}
+.BotaoVoltar{
+    float: left;
+}   
